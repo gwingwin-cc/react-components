@@ -1,12 +1,10 @@
 # React Component Library
 
+- InputNumber: normal input implement for improve user UX reable comma and decimal.
+
 A collection of different UI components for React projects, written in TypeScript.
 
 this project use template from https://github.com/Aakash1103Jha/react-component-lib
-
-## Component
-
-- InputNumber: normal input implement for improve user UX reable comma and decimal.
 
 ## Stack:
 
