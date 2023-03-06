@@ -1,8 +1,8 @@
-[![Node CI](https://github.com/Aakash1103Jha/react-component-lib/actions/workflows/node-ci.yml/badge.svg?branch=master)](https://github.com/Aakash1103Jha/react-component-lib/actions/workflows/node-ci.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/Aakash1103Jha/react-component-lib)
-
 # React Component Library
 
 A collection of different UI components for React projects, written in TypeScript.
+
+this project use template from https://github.com/Aakash1103Jha/react-component-lib
 
 ## Stack:
 
@@ -14,24 +14,6 @@ A collection of different UI components for React projects, written in TypeScrip
 4. Rollup (for bundling)
 5. npm (for local testing and later for publishing)
 
-## Installation
+## Component
 
-1. For now, you can download a zip file of this project, open it up and run `npm i` to install all the dependencies.
-2. Once done, run `npm link` to create a global link for this project on your local system.
-3. From any project that you want to use this library in, run `npm link react-component-lib`
-
-## Request New Components
-
-This project is in it's early stages of development. I have started with the simpler UI elements and will gradually move towards more complex ones. If you have any ideas, or want some component to be included, please be sure to add it as a `new request` in the Issues section.
-
-## References
-
-1. How to write stories - [Storybook Official Docs]
-
-[storybook official docs]: https://storybook.js.org/docs/react/writing-stories/introduction
-
----
-
-```json
-{ "version": "0.0.1 - beta" }
-```
+- InputNumber: normal input implement for improve user UX reable comma and decimal.
