@@ -1,4 +1,5 @@
-# React Component Library
+# Input Number Auto comma
+## React Component Library
 
 - InputNumber: normal input implement for improve user UX reable comma and decimal.
 
